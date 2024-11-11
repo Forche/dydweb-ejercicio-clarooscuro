@@ -1,0 +1,8 @@
+body.dark-mode {
+  background-color: #343a40;
+  color: white;
+}
+
+.dark-mode .table {
+  color: white;
+}
